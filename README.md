@@ -87,6 +87,6 @@ I’m driven by a long-term goal to study at a **top-tier institution** and buil
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/johannesmeyer](https://linkedin.com/in/johannesmeyer)
+- **LinkedIn:** [linkedin.com/in/johannes-meyer-young-and-calculated/]([https://linkedin.com/in/johannesmeyer](https://www.linkedin.com/in/johannes-meyer-young-and-calculated/))
 - **GitHub:** [github.com/johannesmeyer](https://github.com/johannesmeyer)
 - **Email:** johannesmeyer2017@gmail.com
